@@ -1,1 +1,1 @@
-# Mouse-click-python
+ A virtual AI mouse that can control your computer's cursor using just your index finger! This innovative tool is designed to enhance accessibility and ease of use, making technology more adaptable for everyone. Using Python, I've enabled the mouse to not only move with the motion of your index finger but also to execute clicks through a simple pinch gesture between your index finger and thumb.
